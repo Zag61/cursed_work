@@ -1,0 +1,11 @@
+D:\1\Vis_stud_rep\Lab_work\bin\Debug\Lab_work.exe.config
+D:\1\Vis_stud_rep\Lab_work\bin\Debug\Lab_work.exe
+D:\1\Vis_stud_rep\Lab_work\bin\Debug\Lab_work.pdb
+D:\1\Vis_stud_rep\Lab_work\obj\Debug\Lab_work.csproj.AssemblyReference.cache
+D:\1\Vis_stud_rep\Lab_work\obj\Debug\Lab_work.csproj.SuggestedBindingRedirects.cache
+D:\1\Vis_stud_rep\Lab_work\obj\Debug\Lab_work.Form1.resources
+D:\1\Vis_stud_rep\Lab_work\obj\Debug\Lab_work.Properties.Resources.resources
+D:\1\Vis_stud_rep\Lab_work\obj\Debug\Lab_work.csproj.GenerateResource.cache
+D:\1\Vis_stud_rep\Lab_work\obj\Debug\Lab_work.csproj.CoreCompileInputs.cache
+D:\1\Vis_stud_rep\Lab_work\obj\Debug\Lab_work.exe
+D:\1\Vis_stud_rep\Lab_work\obj\Debug\Lab_work.pdb
